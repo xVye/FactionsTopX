@@ -79,9 +79,9 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:git://github.com/Leadz91/FactionsTop.git</connection>
-        <developerConnection>scm:git:git:@github.com:Leadz91/FactionsTop.git</developerConnection>
-        <url>https://github.com/Leadz91/FactionsTop/tree/master/</url>
+        <connection>scm:git:git://github.com/Leadz91/FactionsTopX.git</connection>
+        <developerConnection>scm:git:git:@github.com:Leadz91/FactionsTopX.git</developerConnection>
+        <url>https://github.com/Leadz91/FactionsTopX/tree/master/</url>
     </scm>
     <build>
         <defaultGoal>clean package install javadoc:javadoc</defaultGoal>
