@@ -1,7 +1,16 @@
 name: FactionsTopX
 authors: [Leadz91]
 depend: [Vault, Factions]
-version: ${project.version} {build ${BUILD_NUMBER}}
+version: ${FACTIONS_TOP_VERSION}-b${BUILD_NUMBER}
 main: co.lanze.FactionsTopX
 website: https://lanze.co
 api-version: "1.13"
+commands:
+  ftop:
+    description: Shows the faction leaderboard.
+    usage: /<command>
+    aliases: [f]
+permissions:
+  factionstopx.command.ftop:
+    default: true
+    description: "Default permission to show factions leaderboard."
