@@ -1,8 +1,0 @@
-name: Factionstop
-version: ${project.version}
-main: co.lanze.factionstop.FactionsTop
-api-version: 1.13
-depend: [Vault, Factions]
-authors: [Leadz91]
-description: A fork of /f top | Factions Top by Novucs
-website: lanze.co

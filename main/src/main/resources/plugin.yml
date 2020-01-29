@@ -1,0 +1,7 @@
+name: FactionsTopX
+authors: [Leadz91]
+depend: [Vault, Factions]
+version: ${project.version} {build ${BUILD_NUMBER}}
+main: co.lanze.FactionsTopX
+website: https://lanze.co
+api-version: "1.13"
