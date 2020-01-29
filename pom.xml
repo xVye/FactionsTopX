@@ -9,7 +9,7 @@
     <artifactId>factions-topx-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <properties>
-        <BUILD_NUMBER>Unknown</BUILD_NUMBER>
+        <BUILD_NUMBER>1</BUILD_NUMBER>
         <FACTIONS_TOP_VERSION>1.0.0</FACTIONS_TOP_VERSION>
     </properties>
     <build>

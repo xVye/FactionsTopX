@@ -8,7 +8,7 @@
         <artifactId>factions-topx-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
-    <artifactId>factions-top</artifactId>
+    <artifactId>factions-topx</artifactId>
     <packaging>pom</packaging>
     <build>
         <plugins>
@@ -16,7 +16,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
-                    <finalName>FactionsTop-${FACTIONS_TOP_VERSION}-b${BUILD_NUMBER}</finalName>
+                    <finalName>FactionsTopX-${FACTIONS_TOP_VERSION}-b${BUILD_NUMBER}</finalName>
                     <appendAssemblyId>false</appendAssemblyId>
                 </configuration>
                 <version>3.2.0</version>

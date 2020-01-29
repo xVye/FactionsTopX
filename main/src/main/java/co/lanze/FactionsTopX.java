@@ -1,4 +1,11 @@
 package co.lanze;
 
-public class FactionsTopX {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class FactionsTopX extends JavaPlugin {
+
+  @Override
+  public void onEnable() {
+
+  }
 }
