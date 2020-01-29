@@ -9,3 +9,6 @@
 # Build files
 target/
 jars/
+bin/
+*.jardesc
+*.lnk
