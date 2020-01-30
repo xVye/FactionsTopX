@@ -5,10 +5,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerCommandPreprocessEvent;
 
-import java.lang.annotation.Annotation;
-
 public class PlayerCommandListener implements Listener {
-
   @EventHandler
   public boolean onPlayerCommandPreprocessor(PlayerCommandPreprocessEvent e) {
     String message = e.getMessage();
